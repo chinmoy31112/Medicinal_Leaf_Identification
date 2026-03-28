@@ -20,7 +20,7 @@ A deep learning-based web application that identifies **80 types of medicinal le
    pip install -r requirements.txt
    ```
 3. **Download the trained model:**
-   - Download `leaf_model.keras` from [Google Drive](YOUR_DRIVE_LINK_HERE)
+   - Download `leaf_model.keras` from [Google Drive](https://drive.google.com/file/d/1VxVyDX8O2XFZsGVsLK6mGcD1pkBgs6G1/view?usp=drive_link)
    - Place it in the project root folder
 4. **Run the app:**
    ```bash
