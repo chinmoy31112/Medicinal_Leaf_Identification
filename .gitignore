@@ -1,0 +1,32 @@
+# Trained model (too large for GitHub, ~130MB)
+*.keras
+*.h5
+
+# Dataset folders (too large for GitHub)
+dataset/
+Medicinal Leaf dataset/
+Indian Medicinal Leaves Image Datasets/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Batch files (local shortcuts)
+*.bat
